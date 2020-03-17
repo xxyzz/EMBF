@@ -7,3 +7,7 @@
 - Chapter 2: An Overview of the Financial System
 
 - Chapter 3: What is money?
+
+## Part 2: Financial Markets
+
+- Chapter 4: The Meaning of Interest Rates
